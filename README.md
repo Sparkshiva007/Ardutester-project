@@ -28,7 +28,7 @@ While the original ArduTester could test resistors, capacitors, transistors, and
 ## 🔌 Hardware Requirements
 
 - **Arduino Uno**
-- Use only aurdino UNO and not aurdino Nano (Ardutester code requires 32kb storage which is available onlt in UNO)
+- Use only aurdino UNO and not aurdino Nano (Ardutester code requires 32kb storage which is available only in UNO)
 - If you are fixed with nano, then flash the UNO's Boot loader on the Nano and convert it into UNO.
 - **16x2 LCD** (optional for UI feedback)
 - **Push button(s)** for waveform/frequency selection (optional)
